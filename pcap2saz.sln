@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcap2saz", "pcap2saz.csproj", "{B4436616-28A2-4B98-9C39-3DA4AC95537E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-Plus|Any CPU = Release-Plus|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Release-Plus|Any CPU.ActiveCfg = Release-Plus|Any CPU
+		{B4436616-28A2-4B98-9C39-3DA4AC95537E}.Release-Plus|Any CPU.Build.0 = Release-Plus|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
